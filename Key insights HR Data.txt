@@ -1,0 +1,13 @@
+Key insights after Analyzing HR Data-
+1. Attrition rate is around 16%, which is not a good sign and means employees are not satisfied with their work at the company.
+2. Average Age of employees is 37.
+3. Average income of employees is around 6.5K means most employees are  not being compensated good.
+4. Average years at company is 7 years , means average employee works only for 7 years at this company.
+5. Employees having education background in Life Sciences and Medical field have the maximum number of attrition count.
+6. Employees from age group 26-35 years contribute maximum to the attrition.
+7. Most employees who left the company earned less than 5K,indicating dissatisfaction towards the income offered by company.
+8. Maximum employees left company after 1 year only.
+9. Laboratory Technicians contribute the most to the Attrition count. 
+
+Conclusions to increase the Employee retention rate-
+The wages of employees should be considerably increased, newly joined members should be given better working conditions , company can start a program to reward the employees completing 10,15,20 and so on years at company, Working environment should be improved for the Laboratory Technicians. 
